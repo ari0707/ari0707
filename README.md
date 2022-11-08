@@ -1,5 +1,6 @@
-- 👋 Hola, soy @ari0707
-- 🌱 Data Analyst y estudiando backend.
+- 👋 Hi, soy Ariana!
+- 🌱 Backend.
+- ✨ Systems Engineer/Data Analyst
 
 
 <!---
