@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ari0707
-- 🌱 Actualmente estoy aprendiendo sobre Data e Inteligencia Artificial.
+- 🌱 Data Analyst y aprendiendo backend.
 
 
 <!---
