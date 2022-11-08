@@ -1,4 +1,4 @@
-- 👋 Hi, soy Ariana!
+- 👋 Hi, I'm Ariana!
 - 🌱 Backend.
 - ✨ Systems Engineer/Data Analyst
 
