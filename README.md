@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ari0707
-- 🌱 Data Analyst y aprendiendo backend.
+- 🌱 Data Analyst y estudiando backend.
 
 
 <!---
